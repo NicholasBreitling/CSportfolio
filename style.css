@@ -33,6 +33,18 @@ li a:hover:not(.active) {
 }
 
 p {
-font-size:20px;
+font-size:18px;
 font-family:cursive;
+color:#372f2f
+}
+h1 {
+font-size:30px;
+font-family:sans-serif;
+text-align:center;
+color:#c00000;
+}
+h3 {
+font-size:22px;
+font-family:sans-serif;
+color:#c00000;
 }
