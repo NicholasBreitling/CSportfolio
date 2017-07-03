@@ -1,4 +1,4 @@
-
+ 
 body {margin:0;}
 
 ul {
@@ -35,7 +35,7 @@ li a:hover:not(.active) {
 
 p {
 font-size:18px;
-font-family:"Comic Sans MS", cursive, sans-serif;
+font-family: "Comic Sans MS", cursive, sans-serif;
 color:#372f2f
 }
 h1 {
