@@ -35,7 +35,8 @@ li a:hover:not(.active) {
 
 p {
 font-size:18px;
-font-family: proxima-nova, sans-serif;
+font-family: Proxima-Thin;
+	src: url('proxima-thin.otf');
 font-style: normal;
 font-weight: 100;
 color:#372f2f
