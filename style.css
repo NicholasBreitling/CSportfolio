@@ -1,7 +1,3 @@
-
-@font-face {
-	Proxima-Nova-Thin;
-	src: url('Proxima Nova Thin.otf');
 }
 body {margin:0;}
 
@@ -43,8 +39,7 @@ font-style: normal;
 font-weight: 100;
 color:#372f2f
 }
-p.custom_font{
-	font-family: Proxima-Nova-Thin;
+
 }
 h1 {
 font-size:42px;
