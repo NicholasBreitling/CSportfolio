@@ -74,13 +74,14 @@ img {
 .imgsrc_r {
 font-size:10px;
 font-style: italic;
-color:rgb(172,172,172);
+color:rgb(115,115,115);
 text_align: right;
 }
 
 .imgsrc_l {
 font-size:10px;
 font-style: italic;
-color:rgb(172,172,172);
-text_align: left;    
+color:rgb(115,115,115);
+text_align: left;
+width:500
 }
