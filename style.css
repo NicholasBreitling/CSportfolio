@@ -68,5 +68,8 @@ img {
  display: inline-block;
  margin-left: auto;
  margin-right: auto;
-    img-align: middle;
 }
+
+#container {width:100&#37;;}
+#left {float: left; width: 48%}
+#right {float:left; width: 48%;clear:both}
