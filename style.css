@@ -56,7 +56,7 @@ color:#c00000;
 img {
     display: block;
     margin: 0 auto;
-    border-style: solid;
+    border-style: ridge;
     border-color:#c00000;
     border-width: 6px;
     border-radius: 8px;
