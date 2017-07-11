@@ -68,7 +68,7 @@ img {
 
 #container {width:100&#37;;}
 #left {float: left; width: 48%}
-#right {float:left; width: 48%;clear:both}
+#right {float:left; width: 48%;clear:right}
 
 .imgsrc_r {
 font-size:14px;
