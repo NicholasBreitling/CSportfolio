@@ -70,3 +70,17 @@ img {
 #container {width:100&#37;;}
 #left {float: left; width: 48%}
 #right {float:left; width: 48%;clear:both}
+
+.imgsrc_r {
+font-size:10px;
+font-style: italic;
+color:rgb(172,172,172);
+text_align: right;
+}
+
+.imgsrc_l {
+font-size:10px;
+font-style: italic;
+color:rgb(172,172,172);
+text_align: left;    
+}
